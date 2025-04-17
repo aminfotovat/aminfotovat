@@ -1,5 +1,5 @@
 👋 Hi, I'm **Amin**!  
-🚀 **Full Stack Developer | Education ،Teacher | Programming Teacher**  
+🚀 **Full Stack Developer | Education Teacher | Programming Teacher**  
 
 💻 **Tech Stack**  
 ▸ **Languages:** Python, PHP, Dart, JavaScript   
